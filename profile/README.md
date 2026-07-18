@@ -4,7 +4,7 @@
 
 Hir3d helps recruiting teams analyze resumes, discover candidates, and streamline hiring workflows with AI. This organization is a maintained portfolio of the Hir3d hiring platform.
 
-[Website](https://hir3d-web.vercel.app) · [hello@hir3d.one](mailto:hello@hir3d.one)
+[Learn More](https://me.x70.one/work/hir3d) · [dan@x70.one](mailto:dan@x70.one)
 
 ---
 
